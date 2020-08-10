@@ -1,5 +1,5 @@
 # CT_COLONOGRAPHY
-2020年(第13届)中国大学生计算机设计大赛  人工智能挑战赛赛题二 数据集
+2020年(第13届)中国大学生计算机设计大赛  人工智能挑战赛赛题二 数据集, [`VOC格式`下载](https://github.com/acai66/CT_COLONOGRAPHY/releases/tag/VOC)
 
 ![demo](demo.png)
 
